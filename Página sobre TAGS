@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meu primeiro site">
+    <meta name="keywords" content ="HTML">
+    <meta name="author" content="Gabriel Dorti">
+    <title>Meu primeiro site</title>
+</head>
+
+<body>
+   <small><strong>O preço desse site era <del>100€</del> e está agora a 50€. Aproveite!!</strong></small>
+   <mark><br>ISSO É APENAS UM TESTE, NÃO LEVE ASSÉRIO!!</mark>
+    <br>
+    <h1><i><b>Tema 1</b>: oq é <strong>TAGS?</i></strong></h1>
+    <p>As <b><u>TAGS</b></u> são elementos que definem a estrutura e o significado de um documento <u>HTML</u>.</p>
+    <hr>    
+    <h2><i>Para que são usadas as <strong><u>TAGS?</u></i></strong></h2>
+    <p>Sim, é muito bom e útil saber sobre tags, pois elas funcionam como etiquetas descritivas que ajudam a <br>organizar, classificar e encontrar informações, seja na internet, na programação ouna organização de dados.<br> No entanto, a sua importância varia dependendo do contexto. 
+    <hr>
+    <h3><i>É bom saber sobre <b><u>TAGS?</i></u></b></h3>
+<p>Sim, porque são fundamentais para a construção de páginas web.</p>
+
+    <br>
+    <hr>
+    <h3><i>Como se deve ser usada uma <b><u>TAG?</u></b></i></h3>      
+    <p>As tags devem ser usadas corretamente para definir a estrutura e o significado do conteúdo.</p>
+    <hr></u
+    <h5>Meu nome:</h5>
+    <p><b>Gabriel <sup>Dorti</sup></b></p>
+    Email: <b><u><mark>Gabrieldorti74@gmail.com</mark></b></u>
+    <strong><br>Caso queira um site, me mande email!! 👍</strong>
+    <hr>
+    <h6>FIM!!</h6>
+
+</body>
+</html>
